@@ -1,0 +1,45 @@
+﻿Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+88,beijo_vida_gente_hoje_amar,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]",86,beijo_vida_amar_saudade_amo,87,hoje_aqui_quer_beber_casa,1.271986065190154
+87,hoje_aqui_quer_beber_casa,"[4, 12, 16, 17, 19, 20, 21, 24, 25, 27, 28, 29, 30, 32, 34, 35, 36, 37, 38, 39, 42, 43]",76,quer_bagunça_sirvo_quiser_cara,84,hoje_aqui_beber_pai_bar,1.1344484807623205
+86,beijo_vida_amar_saudade_amo,"[0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 18, 22, 23, 26, 31, 33, 40, 41, 44]",85,beijo_vida_amar_amo_deus,79,saudade_chorar_chorei_acabou_choro,1.1180307121520452
+85,beijo_vida_amar_amo_deus,"[0, 1, 2, 3, 5, 8, 9, 10, 13, 15, 23, 40, 41, 44]",82,amo_amo amo_paixão_amar_solidão,80,beijo_vida_deus_céu_gente,1.0917756451829048
+84,hoje_aqui_beber_pai_bar,"[4, 16, 19, 20, 25, 28, 29, 30, 32, 34, 35, 36, 37, 39, 42]",83,hoje_pai_bar_aqui_beber,68,vem_pitoco_delícia_gata_pau,1.0737803002521462
+83,hoje_pai_bar_aqui_beber,"[4, 16, 20, 28, 29, 30, 34, 35, 36, 37, 39, 42]",81,pai_bar_filho_cama_mala,74,hoje_beber_parar_aqui_casa,1.034819025782022
+82,amo_amo amo_paixão_amar_solidão,"[15, 23, 40, 41, 44]",73,solidão_louca saudade_volta coração_paz coração_agonia,46,amo_amo amo_amar_paixão_amar amar,1.0274813873143234
+81,pai_bar_filho_cama_mala,"[20, 29, 34, 35, 36, 37]",61,pai_filho_pegar_velho_pai perguntar,77,bar_cavalo_quarto_faz faz_colchão,1.0076354030954926
+80,beijo_vida_deus_céu_gente,"[0, 1, 2, 3, 5, 8, 9, 10, 13]",45,beijo_boca_beija_beijar_apenas,71,deus_céu_vida_anjo_gente,0.9850028395377618
+79,saudade_chorar_chorei_acabou_choro,"[6, 7, 11, 14, 18, 22, 26, 31, 33]",51,saudade_chorar_chorei_chora_dor,78,quis_errado_vale_apaixonei_tentei,0.9758645876450381
+78,quis_errado_vale_apaixonei_tentei,"[7, 14, 18, 22, 26, 33]",69,vale_fila anda_teve_fila_errado,67,apaixonei_quis_perdi_amor mim_medo,0.9683424272547373
+77,bar_cavalo_quarto_faz faz_colchão,"[20, 29, 36, 37]",75,cavalo_quarto_colchão_faz faz_mala,29,bar_casar_solteiro_nasci_ser gente,0.9674149778549844
+76,quer_bagunça_sirvo_quiser_cara,"[12, 17, 21, 24, 27, 38, 43]",55,bagunça_sirvo_nenhuma_tirou_achando,72,quer_quiser_verdade_levo_mente,0.9603923705587746
+75,cavalo_quarto_colchão_faz faz_mala,"[20, 36, 37]",36,cavalo_boi_gado_fazendeiro_fazenda,66,quarto_faz faz_colchão_mala_cama,0.9531301088642951
+74,hoje_beber_parar_aqui_casa,"[4, 16, 28, 30, 39, 42]",58,hoje_beber_parar_amanhã_mesa,70,celular_casa_hoje_telefone_dormir,0.9398354522088359
+73,solidão_louca saudade_volta coração_paz coração_agonia,"[40, 41, 44]",44,louca saudade_traz volta_louca_dica_tadin,63,solidão_paz coração_agonia_paz_doeu,0.9393739947015155
+72,quer_quiser_verdade_levo_mente,"[12, 17, 24, 27, 38]",64,mente_culpa_mentirosa_erro_arrepender,65,quiser_levo_mulher_gente amar_quer,0.9252556504434092
+71,deus_céu_vida_anjo_gente,"[0, 1, 3, 5, 9, 10, 13]",62,gente_vida_feliz_toda_olhar,53,céu_anjo_deus_sol_lua,0.91868547722955
+70,celular_casa_hoje_telefone_dormir,"[16, 28, 30, 42]",60,celular_telefone_dormir_hoje_aqui,42,cadê_arrumou_casa_aqui casa_deu,0.9171695655840387
+69,vale_fila anda_teve_fila_errado,"[7, 14, 22]",22,vale_perfeitos_risco_defeitos_acha,56,fila anda_fila_errado_anda fila_choro,0.9009624575010834
+68,vem_pitoco_delícia_gata_pau,"[19, 25, 32]",50,delícia_gata_pau_festa_som,19,pitoco_vem_mo_deuso_mo deuso,0.8991536993080421
+67,apaixonei_quis_perdi_amor mim_medo,"[18, 26, 33]",57,apaixonei_amor mim_hora amar_contar amor_quis,33,perdi_procurava_aconteceu_encontrado_tava,0.8943843892062199
+66,quarto_faz faz_colchão_mala_cama,"[20, 37]",37,mala_arrumei_mudou_sala_pus,20,colchão_faz faz_quarto_cama_mel,0.8915985763007779
+65,quiser_levo_mulher_gente amar_quer,"[12, 17, 24]",59,mulher_homem_quer_sabe_entender,24,levo_gente amar_quiser_amar longe_gente,0.8802124999981843
+64,mente_culpa_mentirosa_erro_arrepender,"[27, 38]",38,perdoar_perdão_futuro_arrepender_sei cor,27,mente_culpa_mentirosa_verdade_desculpa ser,0.8753577011370736
+63,solidão_paz coração_agonia_paz_doeu,"[40, 41]",41,solidão_doeu_volta coração_remédio_coração nessa,40,agonia_vazia_paz coração_embora_amor porta,0.8713725138853686
+62,gente_vida_feliz_toda_olhar,"[0, 1, 9, 10, 13]",49,gente_vida_toda_tempo_mulher,54,feliz_sorriso_vida_olhar_canção,0.867930287129951
+61,pai_filho_pegar_velho_pai perguntar,"[34, 35]",34,pai_filho_velho_papai_brilho,35,pegar_compensar_deita aqui_gracinha_calar,0.8643600348248595
+60,celular_telefone_dormir_hoje_aqui,"[16, 28, 30]",28,celular_telefone_número_mensagem_ligando,52,dormir_hoje_noite_casa_aqui,0.8595094349424903
+59,mulher_homem_quer_sabe_entender,"[12, 17]",12,homem_mulher_sabe_perdendo tempo_perdendo,17,entender_deixo_quer_enganou_amante,0.8577738994203892
+58,hoje_beber_parar_amanhã_mesa,"[4, 39]",39,hoje_compro_der_amanhã_dá dá,4,beber_parar_mesa_bebo_gelada,0.8497831387160428
+57,apaixonei_amor mim_hora amar_contar amor_quis,"[18, 26]",18,hora amar_contar amor_merecia_fingiu_sentiu,26,apaixonei_primeira_sorriso lindo_pousar_real,0.8494088873219294
+56,fila anda_fila_errado_anda fila_choro,"[7, 14]",14,menti_mandou_sabia_brincou_fora,7,fila anda_fila_anda fila_anda_teve,0.8405679599372403
+55,bagunça_sirvo_nenhuma_tirou_achando,"[21, 43]",43,bagunça_sirvo_tirou_achando_namorado,21,bater porta_ninguém_devolver_nenhuma_preocupa,0.835548857746914
+54,feliz_sorriso_vida_olhar_canção,"[9, 10]",10,feliz_sorriso_ser feliz_olhares_sorrisos,9,canção_música_flor_final tava_melhor,0.8169608948706543
+53,céu_anjo_deus_sol_lua,"[3, 5]",5,lua_céu_sol_chove_chuva,3,anjo_deus_senhor_céu_jesus,0.8082644461875889
+52,dormir_hoje_noite_casa_aqui,"[16, 30]",16,dormir_cama_noite_aqui_morena,30,hoje_carro_motel_casa_hoje sair,0.7968850735018529
+51,saudade_chorar_chorei_chora_dor,"[6, 11, 31]",48,saudade_acabou_bye_falta_sentindo,6,chorar_chorei_choro_sofri_ver chorar,0.7942267388236887
+50,delícia_gata_pau_festa_som,"[25, 32]",32,pau sei_paga pau_relaxa_paga_danado,25,delícia_festa_agradar_gata_fiorino,0.7917685561765724
+49,gente_vida_toda_tempo_mulher,"[0, 1, 13]",13,será_gente_será rolar_tempo_diferente,47,gente_vida_toda_mulher_perfume,0.7728567060199295
+48,saudade_acabou_bye_falta_sentindo,"[11, 31]",31,saudade_sentindo_sentindo saudade_chora_senti,11,acabou_bye_saudade_doer_pena,0.7606473541062155
+47,gente_vida_toda_mulher_perfume,"[0, 1]",1,gente_vida_outro_amar_paixão,0,mulher_toda_cabelo_perfume_toda toda,0.7277627558900797
+46,amo_amo amo_amar_paixão_amar amar,"[15, 23]",23,paixão_amo_amor amor_amo amo_amar,15,amo_amo amo_amar_encher_flor,0.7117882591917288
+45,beijo_boca_beija_beijar_apenas,"[2, 8]",8,beijo_todo mundo_mundo menos_beijo amor_boca,2,beijo_beija_boca_beijar_apenas,0.6059727511994049

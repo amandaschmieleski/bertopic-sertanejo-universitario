@@ -1,0 +1,44 @@
+﻿Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+86,coração_tudo_beijo_hoje_amar,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]",84,amo_coração_tudo_amar_tanto,85,beijo_deus_céu_hoje_sol,1.1904473880586768
+85,beijo_deus_céu_hoje_sol,"[1, 2, 3, 5, 7, 8, 12, 14, 16, 17, 18, 21, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 35, 36, 37, 38, 39, 41, 43]",82,deus_céu_sol_lua_anjo,83,beijo_boca_hoje_bar_cara,1.1207991352391258
+84,amo_coração_tudo_amar_tanto,"[0, 4, 6, 9, 10, 11, 13, 15, 19, 20, 29, 31, 33, 40, 42]",76,volta_saber_perdeu_dar_tudo,71,amo_coração_amar_tudo_tempo,1.081660660529533
+83,beijo_boca_hoje_bar_cara,"[1, 2, 7, 8, 12, 14, 16, 18, 21, 24, 26, 27, 28, 30, 34, 35, 36, 38, 43]",80,beijo_boca_roupa_corpo_faz,81,bar_carro_ex_jogo_fora,1.053763249059126
+82,deus_céu_sol_lua_anjo,"[3, 5, 17, 22, 23, 25, 32, 37, 39, 41]",78,deus_anjo_coloca_santo_senhor,66,sol_lua_céu_chuva_estrelas,1.04543051045438
+81,bar_carro_ex_jogo_fora,"[7, 12, 16, 18, 24, 26, 28, 30, 34, 35, 36, 43]",79,bar_ex_jogo_fora_traição,70,carro_celular_internet_mensagem_número,1.0287449269393254
+80,beijo_boca_roupa_corpo_faz,"[1, 2, 8, 14, 21, 27, 38]",53,gavião_pinto_boi_bonito_beleza,67,beijo_boca_corpo_roupa_faz,1.0252744104800706
+79,bar_ex_jogo_fora_traição,"[7, 16, 18, 24, 30, 35, 36, 43]",77,bar_ex_traição_solteiro_mulher,73,jogo_fora_cerveja_garrafa_copo,1.0013997240775077
+78,deus_anjo_coloca_santo_senhor,"[5, 17, 23, 25, 39, 41]",17,doce_bomberman_lentamente_nhec_sarrando,75,deus_anjo_coloca_senhor_anjos,0.9838578154947246
+77,bar_ex_traição_solteiro_mulher,"[16, 18, 24, 30, 36]",52,bar_casar_aceitar_família_ninguém,74,ex_traição_solteiro_mulher_acabou,0.9719000386634585
+76,volta_saber_perdeu_dar_tudo,"[10, 11, 20, 29, 31, 33, 40]",68,volta_saber_verdade_ninguém_tudo,51,perdeu_dar_chance_primeiro gente_saber acontecer,0.9650061480798168
+75,deus_anjo_coloca_senhor_anjos,"[5, 23, 25, 39, 41]",69,dançar_arrocha_festa_procurar_saiba,72,deus_anjo_coloca_senhor_anjos,0.9596960231922326
+74,ex_traição_solteiro_mulher_acabou,"[16, 30, 36]",36,traição_solteiro_amarela_blusa amarela_mulher blusa,63,ex_acabou_novela_dá prejuízo_menina,0.9511657902172439
+73,jogo_fora_cerveja_garrafa_copo,"[7, 35, 43]",54,jogo_fora_jogado_amiga_cara,43,garrafa_agradar_copo_cerveja_acabou,0.951051891064777
+72,deus_anjo_coloca_senhor_anjos,"[5, 25, 39]",64,deus_anjo_coloca_senhor_anjos,39,canção_perfeita_melodia_letra_mostrar,0.9408045515614949
+71,amo_coração_amar_tudo_tempo,"[0, 4, 6, 9, 13, 15, 19, 42]",59,amo_coração_amar_tudo_tempo,42,pensa direito_fechar olhos_fechar_direito_escolhas,0.9386120710371992
+70,carro_celular_internet_mensagem_número,"[12, 26, 28, 34]",62,celular_internet_mensagem_número_fila anda,57,carro_estrada_amarelo_camaro amarelo_camaro,0.9329758330876315
+69,dançar_arrocha_festa_procurar_saiba,"[23, 41]",23,dançar_arrocha_festa_arrocha arrocha_procurar amor,41,alô_fazendo mesmo_tudo usar_alô alô_jeito,0.9265885875601825
+68,volta_saber_verdade_ninguém_tudo,"[10, 11, 29, 31, 40]",40,buscar_verdade_fiz tudo_qualquer_crime,65,volta_ninguém_culpa_saber_sabe,0.9117693381863526
+67,beijo_boca_corpo_roupa_faz,"[1, 2, 8, 14, 21]",56,beijo_boca_corpo_roupa_faz,14,filme_cinema_beijo amor_final_romance,0.903595102680723
+66,sol_lua_céu_chuva_estrelas,"[3, 22, 32, 37]",55,lua_sol_céu_chuva_estrelas,61,frio_clima_tempo_entra clima_calor,0.8952572888847714
+65,volta_ninguém_culpa_saber_sabe,"[10, 11, 29, 31]",60,volta_ninguém_culpa_sabe_teve,29,melhor_aqui gente_arrepender_bater porta_deixo,0.8916810127261687
+64,deus_anjo_coloca_senhor_anjos,"[5, 25]",25,anjo_anjos_homens anjos_céu_homens,5,deus_coloca_senhor_cuidado_pé,0.886343321168525
+63,ex_acabou_novela_dá prejuízo_menina,"[16, 30]",16,ex_acabou_ser ex_valorizando_engole,30,novela_filha_dá prejuízo_menina_prejuízo,0.8777580076478825
+62,celular_internet_mensagem_número_fila anda,"[12, 28]",12,celular_internet_mensagem_fila anda_lento,28,média_retrovisor_dinheiro_rico_trabalho,0.8775278130776072
+61,frio_clima_tempo_entra clima_calor,"[32, 37]",32,frio_tempo_quente_gelada_calor,37,clima_entra clima_entra_pegando_cima,0.8774822874967533
+60,volta_ninguém_culpa_sabe_teve,"[10, 11, 31]",31,mim mesmo_deixando_fugindo_tentar esquecer_esquecer,50,volta_culpa_ninguém_teve_tudo,0.868942084912731
+59,amo_coração_amar_tudo_tempo,"[0, 4, 6, 9, 13, 15, 19]",58,lembrar_coração_feliz_sentir_amar,45,amo_coração_amar_paixão_tudo,0.8636788517958234
+58,lembrar_coração_feliz_sentir_amar,"[6, 13, 15, 19]",47,coração_sentir_sentir saudade_chorar_saudade,49,feliz_ser feliz_complicado_há_amar,0.8546793011287015
+57,carro_estrada_amarelo_camaro amarelo_camaro,"[26, 34]",26,carro_amarelo_camaro_camaro amarelo_fiorino,34,estrada_carro_interior_arrumou_rodeio,0.8493837686018563
+56,beijo_boca_corpo_roupa_faz,"[1, 2, 8, 21]",21,cabelo_perfume_roupa_espelho_linda,48,beijo_boca_corpo_beijar_faz,0.8417175957491324
+55,lua_sol_céu_chuva_estrelas,"[3, 22]",3,lua_sol_céu_estrelas_sonhar,22,chuva_chove_lavar_invadem_esta,0.8366639447106421
+54,jogo_fora_jogado_amiga_cara,"[7, 35]",35,tomou_amiga_amiga tava_tava bebaça_bebaça,7,jogo_fora_jogado_jogando_fogo,0.8350306007015498
+53,gavião_pinto_boi_bonito_beleza,"[27, 38]",38,gavião_pinto_beleza_cobra_cavalo,27,gavião_pau_pau sei_paga pau_beijo,0.8323285740913081
+52,bar_casar_aceitar_família_ninguém,"[18, 24]",24,bar_casar_aceitar_ninguém_nasci ser,18,bar_família_enquanto_virou_saí,0.8282930053187388
+51,perdeu_dar_chance_primeiro gente_saber acontecer,"[20, 33]",20,perdeu_dar_primeiro gente_saber acontecer_fugida,33,disponível_off_virar vagabundo_dei amor_vagabundo,0.8274349006207146
+50,volta_culpa_ninguém_teve_tudo,"[10, 11]",11,culpa_teve_perdeu perdeu_terminando_perdeu,10,volta_será_povo_ninguém_outro,0.825287690931675
+49,feliz_ser feliz_complicado_há_amar,"[13, 15]",15,ser feliz_feliz_lembrar_amor amor_24 horas,13,complicado_plano_acabou_desejo outro_amor mim,0.8135373425338526
+48,beijo_boca_corpo_beijar_faz,"[1, 2, 8]",46,beijo_boca_corpo_beijar_empina,8,superar_romântico_parece_amante_cuida,0.8012675146241616
+47,coração_sentir_sentir saudade_chorar_saudade,"[6, 19]",19,lembrança_coração_olhos_senti_coração acho,6,sentir saudade_chorar_sofrer_sentir_caminho,0.764538964058305
+46,beijo_boca_corpo_beijar_empina,"[1, 2]",2,beijo_boca_empina_beijando_beijar,1,acordar_corpo_dose_sinto_choro,0.7364431730668676
+45,amo_coração_amar_paixão_tudo,"[0, 4, 9]",44,amo_paixão_noite_amar_coração,9,amo_sinto_quantos_diga amo_amo amo,0.7311330670426051
+44,amo_paixão_noite_amar_coração,"[0, 4]",4,noite_coração_amar_amo_beijo,0,amo_tudo_tempo_paixão_sei amo,0.6299189689294791

@@ -1,0 +1,41 @@
+﻿Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+80,saudade_beijo_nem_amar_dia,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",78,deus_balada_tchau_nem_arrocha,79,saudade_beijo_amar_dia_tempo,1.1882819548214185
+79,saudade_beijo_amar_dia_tempo,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 21, 22, 25, 26, 27, 31, 32, 33, 35, 36, 37, 40]",77,saudade_nem_tempo_hoje_amo,76,beijo_boca_amar_céu_louco,1.1142227726900764
+78,deus_balada_tchau_nem_arrocha,"[14, 15, 16, 19, 20, 23, 24, 28, 29, 30, 34, 38, 39]",75,deus_tchau_coloca_céu_mãos,63,balada_arrocha_empina_arrocha arrocha_mulherada,1.110852835548701
+77,saudade_nem_tempo_hoje_amo,"[1, 2, 3, 4, 5, 7, 8, 9, 10, 12, 13, 21, 27, 31, 33, 36, 37]",72,saudade_beber_solidão_perdeu_celular,71,amo_ama_sabe_tempo_nem,1.088403373019708
+76,beijo_boca_amar_céu_louco,"[0, 6, 11, 17, 18, 22, 25, 26, 32, 35, 40]",69,céu_mel_lua_mar_sol,64,beijo_boca_louco_beija_beijar,1.0548650373453685
+75,deus_tchau_coloca_céu_mãos,"[15, 16, 19, 23, 24, 28, 29, 30, 38, 39]",73,tchau_cuidado_mãos_coração mãos_tchau tchau,74,deus_coloca_céu_anjos_cantar,1.0381615560209965
+74,deus_coloca_céu_anjos_cantar,"[15, 16, 19, 23, 24, 29, 30, 38]",59,solteiro_ninguém_aceitar_queria_status queria,70,deus_coloca_anjos_cantar_céu,0.9967617884326563
+73,tchau_cuidado_mãos_coração mãos_tchau tchau,"[28, 39]",39,cuidado_mãos_coração mãos_sabe estou_cair,28,tchau_tchau tchau_querendo querendo_querendo_bate,0.9900505592157742
+72,saudade_beber_solidão_perdeu_celular,"[1, 2, 8, 12, 13, 21, 31, 33, 36]",66,perdeu_delícia_doce_fila_chorar,68,saudade_beber_solidão_celular_esquecer,0.9767832420303154
+71,amo_ama_sabe_tempo_nem,"[3, 4, 5, 7, 9, 10, 27, 37]",57,tempo_melhor_nem_sabe_mesmo,49,amo_amo amo_escolhi_amor amor_fim,0.9701683492900217
+70,deus_coloca_anjos_cantar_céu,"[16, 19, 23, 24, 29, 30]",51,deus_coloca_anjos_jesus_céu,67,destino_cavalo_viola_violão_levando,0.9623204870148324
+69,céu_mel_lua_mar_sol,"[6, 18, 22, 26, 32, 35]",53,sorriso_outro_desejo outro_outro amor_sentimento,56,céu_mel_lua_mar_sol,0.950938483414105
+68,saudade_beber_solidão_celular_esquecer,"[1, 2, 8, 13, 21, 33]",54,saudade_beber_celular_esquecer_solidão,61,perfume_cheiro_chorei_choro_rosas,0.9408062964829003
+67,destino_cavalo_viola_violão_levando,"[19, 23, 24, 29]",65,cavalo_destino_levando_metade_rumo,29,violão_viola_morar comigo_voar_vem morar,0.9376737937503649
+66,perdeu_delícia_doce_fila_chorar,"[12, 31, 36]",12,perdeu_delícia_doce_fila_anda,62,sofrer_chorar_faz_superou_pena tudo,0.9273861843824631
+65,cavalo_destino_levando_metade_rumo,"[19, 23, 24]",23,cavalo_gado_mato_fazenda_velho,60,destino_rumo_caminho_toda vida_levando,0.9167636521313698
+64,beijo_boca_louco_beija_beijar,"[0, 11, 17, 25, 40]",55,louco_louca_sorte_roupa_inteira,58,beijo_boca_beija_flor_corpo,0.9084084483790736
+63,balada_arrocha_empina_arrocha arrocha_mulherada,"[14, 20, 34]",34,média_pegador_fama_nem_essas,46,balada_arrocha_empina_arrocha arrocha_pira,0.9004688176156089
+62,sofrer_chorar_faz_superou_pena tudo,"[31, 36]",31,superou_pena tudo_faz_feito_tudo faz,36,chorar_sofrer_chorar chorar_tentei_faz sofrer,0.8886442176933291
+61,perfume_cheiro_chorei_choro_rosas,"[21, 33]",33,chorei_choro_ciúmes_voz_sozinho,21,perfume_cheiro_rosas_come_identifica,0.8879273516300739
+60,destino_rumo_caminho_toda vida_levando,"[19, 24]",24,toda vida_passe_toda_espera_mesmo,19,caminho_metade_levando vida_destino_rumo,0.8831756692119332
+59,solteiro_ninguém_aceitar_queria_status queria,"[15, 38]",15,ninguém_aceitar_trai_ser ser_nasci ser,38,solteiro_namorar_deus livre_queria_dá arrepio,0.8746025658655966
+58,beijo_boca_beija_flor_corpo,"[0, 25, 40]",41,beijo_boca_beija_flor_corpo,40,bobeira_durar_beijo_rolar_chegando perto,0.8731285745869142
+57,tempo_melhor_nem_sabe_mesmo,"[4, 5, 9, 10, 27]",27,amar precisa_chega perto_desce_quiser amar_amar,52,tempo_nem_melhor_ama_mesmo,0.8711569463606472
+56,céu_mel_lua_mar_sol,"[6, 18, 22, 26]",50,céu_mel_lua_sol_mar,26,noite dia_mania_peito_porta_dia passa,0.8691972054103148
+55,louco_louca_sorte_roupa_inteira,"[11, 17]",17,sorte_roupa_inteira_noite_noite inteira,11,louco_louca_louca saudade_loucura_romântico,0.8642262135516766
+54,saudade_beber_celular_esquecer_solidão,"[1, 2, 8, 13]",13,esquecer_lembrar_10_esqueci_esqueceu,48,saudade_beber_celular_solidão_copo,0.8516406715485398
+53,sorriso_outro_desejo outro_outro amor_sentimento,"[32, 35]",32,sorriso_vida nesse_sorriso faz_amor sentimento_faz todo,35,desejo outro_terra_outro amor_momento_paixão,0.8508580455000103
+52,tempo_nem_melhor_ama_mesmo,"[4, 5, 9, 10]",43,tempo_nem_ama_melhor_faz,9,perdoa_erro_culpa_perdoar_errado,0.8456634710073915
+51,deus_coloca_anjos_jesus_céu,"[16, 30]",30,coloca_jesus_deus_cantar_pé,16,anjos_ser humano_humano_deus_senhor,0.8399237222883966
+50,céu_mel_lua_sol_mar,"[6, 18, 22]",18,dia_pensei_acordar_espelho_quis ver,47,céu_mel_lua_mar_estrelas,0.8306688466267109
+49,amo_amo amo_escolhi_amor amor_fim,"[3, 7, 37]",45,amo_escolhi_amo amo_amor amor_fim,37,defeito_amo_defeitos_mil_mil vezes,0.8276123962298256
+48,saudade_beber_celular_solidão_copo,"[1, 2, 8]",44,saudade_beber_solidão_copo_bebendo,8,celular_telefone_ligar_ligo_horas,0.8209047681313663
+47,céu_mel_lua_mar_estrelas,"[6, 22]",22,chuva_procurei_sol_encontrei_bússola,6,mel_céu_lua_estrelas_estrela,0.8080601785298669
+46,balada_arrocha_empina_arrocha arrocha_pira,"[14, 20]",14,balada_mulherada_dançar_mina_pira,20,empina_arrocha_nhec_pac man_man,0.801973936402052
+45,amo_escolhi_amo amo_amor amor_fim,"[3, 7]",7,amo_escolhi_amo amo_santo santo_santo,3,fim_amor amor_amo_acabou_ie,0.7917022637675256
+44,saudade_beber_solidão_copo_bebendo,"[1, 2]",1,beber_copo_bebendo_mesa_cerveja,2,saudade_solidão_dia_sentir_sinto,0.7683073699461129
+43,tempo_nem_ama_melhor_faz,"[4, 5, 10]",10,ama_usar_gosto_cama_feliz,42,tempo_nem_mesmo_melhor_cara,0.7461260691255251
+42,tempo_nem_mesmo_melhor_cara,"[4, 5]",4,tempo_melhor_cada_lado_coisas,5,dúvida_cara_mesmo_cima_quase,0.7327907146873052
+41,beijo_boca_beija_flor_corpo,"[0, 25]",25,flor_beija_encher_beija flor_inteira,0,beijo_boca_corpo_beija_beijar,0.7320530530680778

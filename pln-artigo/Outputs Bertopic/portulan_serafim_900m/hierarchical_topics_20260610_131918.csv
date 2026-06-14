@@ -1,0 +1,50 @@
+﻿Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+98,amor_coração_mim_dia_amar,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]",95,amor_amar_coração_amo_mim,97,saudade_hoje_todo_dia_esquecer,1.2878345722658286
+97,saudade_hoje_todo_dia_esquecer,"[0, 2, 3, 4, 5, 9, 10, 12, 14, 15, 16, 18, 21, 22, 25, 26, 29, 30, 32, 33, 34, 35, 36, 37, 40, 41, 42, 43, 45, 46, 48, 49]",96,hoje_todo_todo mundo_mundo_beber,90,saudade_esquecer_dia_perdeu_coração,1.2109222365955874
+96,hoje_todo_todo mundo_mundo_beber,"[0, 4, 5, 9, 10, 12, 15, 18, 21, 22, 26, 30, 33, 34, 35, 36, 37, 42, 43, 45, 46, 49]",92,hoje_cara_será_comigo_ligando,94,todo mundo_mundo_todo_beber_roupa,1.069318776070291
+95,amor_amar_coração_amo_mim,"[1, 6, 7, 8, 11, 13, 17, 19, 20, 23, 24, 27, 28, 31, 38, 39, 44, 47]",93,amor_amar_céu_amo_coração,91,tchau_mãos_mim_coração_jeito,1.0401845555018516
+94,todo mundo_mundo_todo_beber_roupa,"[0, 4, 5, 9, 12, 22, 26, 30, 33, 37, 42, 43]",87,beber_chão_roupa_arrocha_coloca,89,todo mundo_mundo_todo_mundo todo_beijo,1.0325928403734812
+93,amor_amar_céu_amo_coração,"[1, 6, 7, 8, 19, 20, 23, 24, 28, 39, 44, 47]",86,amor_amo_amar_flor_vem,82,céu_lua_deus_sol_cantar,1.0210126318373762
+92,hoje_cara_será_comigo_ligando,"[10, 15, 18, 21, 34, 35, 36, 45, 46, 49]",88,hoje_cara_ligando_melhor_choro,73,sonha comigo_acordar_manhã_sonha_será,1.0104907689357108
+91,tchau_mãos_mim_coração_jeito,"[11, 13, 17, 27, 31, 38]",78,mãos_coração_coração mãos_jeito_cuidado,57,tchau_tchau tchau_nem conto_conto_gosta mim,0.9975598075296614
+90,saudade_esquecer_dia_perdeu_coração,"[2, 3, 14, 16, 25, 29, 32, 40, 41, 48]",84,saudade_perdeu_dia_coração_amor,67,esquecer_girando_lembrança_dia esquecer_dia,0.9840387829552326
+89,todo mundo_mundo_todo_mundo todo_beijo,"[5, 12, 26, 43]",51,todo mundo_mundo_todo_mundo todo_mundo menos,71,parece_briga_média_gosto_casal,0.9834990375225721
+88,hoje_cara_ligando_melhor_choro,"[10, 15, 18, 34, 35, 36, 46]",77,choro_caiu_teve_esqueci_cara,66,hoje_melhor_hoje rolar_saber_senta aqui,0.975881664728505
+87,beber_chão_roupa_arrocha_coloca,"[0, 4, 9, 22, 30, 33, 37, 42]",63,coloca_roupa_arrocha_arrocha arrocha_chão,85,beber_parar_cerveja_pira_bebo,0.9732603851826275
+86,amor_amo_amar_flor_vem,"[1, 6, 23, 28, 39, 44, 47]",47,flor_encontro_beija flor_rolando_encher,83,amor_amo_amar_beijo_vem,0.9665583389581993
+85,beber_parar_cerveja_pira_bebo,"[0, 4, 22, 33, 37, 42]",79,vale_pego_coladinha_pena_toda,80,beber_cerveja_pira_parar_bebo,0.960568078995018
+84,saudade_perdeu_dia_coração_amor,"[2, 3, 14, 16, 29, 32, 40, 48]",69,senti_repente_nem lembro_cheiro_lembro,81,saudade_perdeu_dia_amor_coração,0.9583032790071574
+83,amor_amo_amar_beijo_vem,"[1, 6, 23, 28, 39, 44]",76,amo_amor_amar_paixão_dia,54,beijo_vem_amor_perdoa_apenas,0.9285888015023569
+82,céu_lua_deus_sol_cantar,"[7, 8, 19, 20, 24]",60,céu_lua_deus_jesus_estrelas,65,passe_mesmo_amar_levar_toda vida,0.9272257126677125
+81,saudade_perdeu_dia_amor_coração,"[2, 3, 14, 16, 29, 40]",58,saudade_perdeu_dia_amor_valor,59,esquecer_longe_levo_gente amar_amar longe,0.9265642824627407
+80,beber_cerveja_pira_parar_bebo,"[0, 4, 22, 42]",74,beber_cerveja_pira_parar_bebo,22,boi_cavalo_berrante_sertão_gado,0.9245185071540009
+79,vale_pego_coladinha_pena_toda,"[33, 37]",37,viajo_pena_são coisas_fatal_outra metade,33,vale_pego_coladinha_delícia_cama,0.9225037841106195
+78,mãos_coração_coração mãos_jeito_cuidado,"[11, 13, 17, 27]",11,mãos_coração mãos_cuidado_santo santo_santo,75,jeito_romântico_amar_defeitos_mim,0.9218644641402027
+77,choro_caiu_teve_esqueci_cara,"[15, 18, 35, 46]",46,choro_louca louca_teve_louca_chorei,72,esqueci_celular_ligando_caiu_porta,0.9146571777090041
+76,amo_amor_amar_paixão_dia,"[1, 28, 39, 44]",50,amo_amar_amor_amo amo_dia,68,sorriso_olhar_amor_faz todo_sorriso faz,0.907876813671028
+75,jeito_romântico_amar_defeitos_mim,"[13, 17, 27]",61,jeito_romântico_amar_defeitos_mesmo sabendo,27,chamar_gordinho_hora_moleque_demora,0.9059985790409616
+74,beber_cerveja_pira_parar_bebo,"[0, 4, 42]",42,tal_cuidar_aumenta_muda_mês,53,beber_cerveja_pira_parar_bebendo,0.9019046105197003
+73,sonha comigo_acordar_manhã_sonha_será,"[21, 45, 49]",70,sonha comigo_sonha_acordar_manhã_será,45,hoje acordei_acordei_tentando_boa noite_hoje,0.900571030273072
+72,esqueci_celular_ligando_caiu_porta,"[15, 18, 35]",62,celular_esqueci_mentirosa_caiu_arrumou,35,obreiro_mala_mãe_trem_filho,0.8891934210991375
+71,parece_briga_média_gosto_casal,"[26, 43]",26,parece_briga_romance_casal_amor,43,média_gosto_apegar_separa_gente briga,0.8866006122033532
+70,sonha comigo_sonha_acordar_manhã_será,"[21, 49]",21,faz tempo_será_acostumou_quê_fazendo mesmo,49,sonha comigo_sonha_gente saiu_manhã_acordar,0.8831238756092902
+69,senti_repente_nem lembro_cheiro_lembro,"[32, 48]",48,nem lembro_cheiro_lembro_voando_sonho,32,senti_repente_primeira_dá saudade_carro,0.881625017029663
+68,sorriso_olhar_amor_faz todo_sorriso faz,"[39, 44]",44,sorriso_olhar_vida todo_sorriso faz_faz todo,39,amor_amamos_amor amor_cada_numa,0.8815342882317879
+67,esquecer_girando_lembrança_dia esquecer_dia,"[25, 41]",41,esquecer_lembrança_vo_foto_vira lembrança,25,girando_dia esquecer_esquecer_pó_deixo,0.8738315059169124
+66,hoje_melhor_hoje rolar_saber_senta aqui,"[10, 34, 36]",34,nota_hora_tranquilo_pensou_terminar,64,hoje_melhor_hoje rolar_senta aqui_senta,0.8735119588996546
+65,passe_mesmo_amar_levar_toda vida,"[19, 24]",24,levar_toda vida_viola_passe_frente ao,19,sabe amor_amor gente_amor_penso_relação,0.8654738577198251
+64,hoje_melhor_hoje rolar_senta aqui_senta,"[10, 36]",10,hoje_hoje rolar_melhor_fechar_rolar,36,verdade_conversar_senta aqui_perguntar_senta,0.8633379317323083
+63,coloca_roupa_arrocha_arrocha arrocha_chão,"[9, 30]",30,coloca_chão_pé_arrocha_arrocha arrocha,9,roupa_sarrando_lentamente_arrocha_nela,0.8622442980641157
+62,celular_esqueci_mentirosa_caiu_arrumou,"[15, 18]",18,mentirosa_caiu_desculpa ser_ser cara_arrumou,15,celular_esqueci_pensa tanto_chip_esquecendo,0.8608666880807085
+61,jeito_romântico_amar_defeitos_mesmo sabendo,"[13, 17]",13,romântico_jeito_mesmo sabendo_amar precisa_defeitos,17,cuido_aceito_faltar_entregar coração_coração,0.848743010749
+60,céu_lua_deus_jesus_estrelas,"[7, 8, 20]",56,céu_lua_estrelas_sol_mar,8,deus_jesus_cantar_céu_viver,0.8472123617870121
+59,esquecer_longe_levo_gente amar_amar longe,"[14, 16, 40]",55,esquecer_longe_gente amar_levo_amar longe,40,tentando_tentei_medo_bebê_fugir,0.8326668577981423
+58,saudade_perdeu_dia_amor_valor,"[2, 3, 29]",29,chove_sentir saudade_saudade_sabe dia_lavar,52,saudade_perdeu_amor_coração_valor,0.8288472241849376
+57,tchau_tchau tchau_nem conto_conto_gosta mim,"[31, 38]",31,gosta mim_diga amo_tchau_chamando amor_vê,38,nem conto_tchau_conto_tchau tchau_sogrão,0.826440145344265
+56,céu_lua_estrelas_sol_mar,"[7, 20]",20,chegou_mistérios_voou_amor_voou voou,7,lua_céu_estrelas_sol_mar,0.803229122124205
+55,esquecer_longe_gente amar_levo_amar longe,"[14, 16]",16,esquecer_levo_gente amar_longe_amar longe,14,chora_chamo_louco_pensar_às vezes,0.7966814110162321
+54,beijo_vem_amor_perdoa_apenas,"[6, 23]",6,beijo_vem_apenas_amor somos_vem vem,23,perdoa_amor_preciso_diga_amor amor,0.7920793996442484
+53,beber_cerveja_pira_parar_bebendo,"[0, 4]",4,pira_dançar_pega_balada_mulherada,0,beber_cerveja_bebendo_parar_bebo,0.7781062465718449
+52,saudade_perdeu_amor_coração_valor,"[2, 3]",2,saudade_vivo_coração_sofrendo_solidão,3,perdeu_valor_amor_chorar_superar,0.7471715740583502
+51,todo mundo_mundo_todo_mundo todo_mundo menos,"[5, 12]",12,todo mundo_mundo_todo_mundo todo_escolhi,5,beijo_beijava_todo mundo_beijando_mundo menos,0.7365975750575549
+50,amo_amar_amor_amo amo_dia,"[1, 28]",28,amo_noite dia_paixão_locutor_amar,1,amo_amor_amar_mundo_amo amo,0.6951698378168778
