@@ -1,4 +1,4 @@
-# Processamento-de-linguagem-natural-bertopic aplicado ao sertanejo universitário
+# Processamento de linguagem natural, bertopic aplicado ao sertanejo universitário
 Material desenvolvido pro artigo de Processamento da Linguagem Natural do Programa de Pós Gradução em Computação da UFRGS
 
 
